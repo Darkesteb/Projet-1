@@ -1,0 +1,86 @@
+body {
+	background-image: url(images/secure.png);
+	font-size: 18px;
+	font-family: sans-serif,Verdana;
+}
+
+#titre {
+	background-image: url(images/1.jpg);
+	width: 400px;
+	height: 70px;
+	margin: auto;
+	border-radius: 10px;
+	border: 2px solid silver;
+	font-size: 25px;
+	text-align: center;
+	color:  red;
+	font-family: monospace,verdana,serif,cursive;
+	font-weight: bold;
+	
+}
+#centre {
+	width: 86%;
+	height: 600px;
+	margin-right: 30px;
+	border-radius: 10px;
+	border: 2px solid silver;
+	padding-left: 15px;
+	background-image: url(images/NY.jpg);
+	float: right;	
+
+}
+
+.left {
+
+	width: 10%;
+	height: 600px;
+	margin: auto;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-bottom: 10px;	
+	float: left;
+	background-image: url(images/NY.jpg);
+
+}
+
+#facebook {
+
+    font-size: 90px;
+
+}
+
+#github {
+
+font-size: 90px;
+margin-bottom: 100px;
+color: #400080;
+
+}
+
+#projet {
+
+font-size: 90px;
+color: green;
+
+}
+
+#mail {
+
+font-size: 90px;
+color: #262626;
+
+}
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+	font-size: 30px;
+}
+
+
+ul {
+	line-height: 120px;
+	list-style-type: none;
+}
